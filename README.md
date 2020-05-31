@@ -1,5 +1,5 @@
 # tourist-guide
-NEWEST VERSION 5.30
+ПРИЛОЖЕНИЕ
 ---
 1) Скачать THELASTVERSION_5.30.2.zip, разархивировать (все файлы должны остаться в одной папке) и запустить файлы AdminApp.exe для администратора и UserApp.exe для пользователя.
 2) Login администратора : root, Password администратора : pi31415   
